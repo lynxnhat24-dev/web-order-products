@@ -1,37 +1,32 @@
 {
-        data: [
-        {
-          id: 0,
-          productName: "Đen đá 2",
-          category: "coffee",
-          price: 19000,
-          image:
-            "https://cdn1-fnb-userdata.kiotviet.vn/2024/02/beocafe/images/8b069fff259b476cb0049ce183af45ea",
-        },
-        {
-          id: 1,
-          productName: "Đen đá",
-          category: "coffee",
-          price: 19000,
-          image:
-            "https://cdn1-fnb-userdata.kiotviet.vn/2024/02/beocafe/images/eb1c1678e60e4d99893ae61b743a1c92",
-        },
-        {
-          id: 2,
-          productName: "Nước ép cam",
-          category: "fruit",
-          price: 15000,
-          image:
-            "https://cdn1-fnb-userdata.kiotviet.vn/2024/02/beocafe/images/2e484fce22c143fb85abb8bad05027bd",
-        },
-        {
-          id: 3,
-          productName: "Đen đá",
-          category: "tea",
-          price: 29000,
-          image:
-            "https://cdn1-fnb-userdata.kiotviet.vn/2024/02/beocafe/images/8a77604bf9ef4eb8bc9a2b4aed347739",
-        },
-      ],
-
+  "data": [
+    {
+      "id": 0,
+      "productName": "Đen đá 2",
+      "category": "coffee",
+      "price": 19000,
+      "image": "https://cdn1-fnb-userdata.kiotviet.vn/2024/02/beocafe/images/8b069fff259b476cb0049ce183af45ea"
+    },
+    {
+      "id": 1,
+      "productName": "Đen đá",
+      "category": "coffee",
+      "price": 19000,
+      "image": "https://cdn1-fnb-userdata.kiotviet.vn/2024/02/beocafe/images/eb1c1678e60e4d99893ae61b743a1c92"
+    },
+    {
+      "id": 2,
+      "productName": "Nước ép cam",
+      "category": "fruit",
+      "price": 15000,
+      "image": "https://cdn1-fnb-userdata.kiotviet.vn/2024/02/beocafe/images/2e484fce22c143fb85abb8bad05027bd"
+    },
+    {
+      "id": 3,
+      "productName": "Đen đá",
+      "category": "tea",
+      "price": 29000,
+      "image": "https://cdn1-fnb-userdata.kiotviet.vn/2024/02/beocafe/images/8a77604bf9ef4eb8bc9a2b4aed347739"
+    }
+  ]
 }
