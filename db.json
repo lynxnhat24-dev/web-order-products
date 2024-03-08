@@ -1,6 +1,7 @@
 {
   "data": [
-    {
+    "data": [
+      {
       "id": 0,
       "productName": "Đen đá 2",
       "category": "coffee",
@@ -28,5 +29,6 @@
       "price": 29000,
       "image": "https://cdn1-fnb-userdata.kiotviet.vn/2024/02/beocafe/images/8a77604bf9ef4eb8bc9a2b4aed347739"
     }
+    ]
   ]
 }
